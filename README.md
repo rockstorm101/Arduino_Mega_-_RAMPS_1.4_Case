@@ -1,4 +1,4 @@
-![Arduino Mega + RAMPS 1.4 Case](https://link_to_a_cool_image.com)
+![Case w/o Top](https://github.com/rockstorm101/Arduino_Mega_-_RAMPS_1.4_Case/blob/master/images/assembly_wo_top.PNG) ![Case with Top](https://github.com/rockstorm101/Arduino_Mega_-_RAMPS_1.4_Case/blob/master/images/asembly_w_top.PNG)
 
 # WARNING: Work in Progress
 # Arduino Mega + RAMPS 1.4 Case
@@ -8,6 +8,7 @@ A box/case/enclosure for the Arduino Mega + RAMPS assembly which includes:
  * Cable-routing structures
  * Fan mount
  * Removable lid for easy access
+ * Ventilation holes
 
 ## Customization
 
