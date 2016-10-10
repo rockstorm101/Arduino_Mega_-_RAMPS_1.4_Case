@@ -1,6 +1,5 @@
-![Case w/o Top](https://github.com/rockstorm101/Arduino_Mega_-_RAMPS_1.4_Case/blob/master/images/assembly_wo_top.PNG) ![Case with Top](https://github.com/rockstorm101/Arduino_Mega_-_RAMPS_1.4_Case/blob/master/images/asembly_w_top.PNG)
+![Case with Open Lid](https://github.com/rockstorm101/Arduino_Mega_-_RAMPS_1.4_Case/blob/master/images/asembly_open_lid.PNG)
 
-# WARNING: Work in Progress
 # Arduino Mega + RAMPS 1.4 Case
 
 A box/case/enclosure for the Arduino Mega + RAMPS assembly which includes:
@@ -10,20 +9,9 @@ A box/case/enclosure for the Arduino Mega + RAMPS assembly which includes:
  * Removable lid for easy access
  * Ventilation holes
 
-## Customization
-
-TODO: 
-
- * Develop the models in OpenSCAD.
- * Describe the customization process
-
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+## Printing
+ * Layer height:    0.3mm
+ * Infill:           100%
 
 ## Credits
 
@@ -36,9 +24,5 @@ The hole case and specially the folding lid concept has been taken from the [Ram
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 You should have received a copy of the license along with this work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
-
-The source code used to generate the models, meaning the content of the folder 'src', is free software, you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-You should have received a copy of the GNU General Public License along with this work. If not, see <http://www.gnu.org/licenses/>.
 
 This work is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
